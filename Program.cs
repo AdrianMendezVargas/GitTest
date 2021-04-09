@@ -11,6 +11,7 @@ namespace Git_Test
             System.Console.WriteLine("Como te llamas?");
             var nombre = Console.ReadLine();
             Console.WriteLine(@"Hi {0}", nombre);
+            System.Console.WriteLine("---------------------");
         }
     }
 }

@@ -8,6 +8,9 @@ namespace Git_Test
         {
             System.Console.WriteLine("---------------------");
             Console.WriteLine("Hola mundo!");
+            System.Console.WriteLine("Como te llamas?");
+            var nombre = Console.ReadLine();
+            Console.WriteLine(@"Hi {0}", nombre);
         }
     }
 }

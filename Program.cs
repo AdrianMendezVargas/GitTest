@@ -7,7 +7,7 @@ namespace Git_Test
         static void Main(string[] args)
         {
             System.Console.WriteLine("---------------------");
-            Console.WriteLine("Saludos, bienvenido al programa");
+            Console.WriteLine("Buen dia!, bienvenido al programa");
             System.Console.WriteLine("Como te llamas?");
             var nombre = Console.ReadLine();
             Console.WriteLine(@"Hi {0}", nombre);

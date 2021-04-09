@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\Git Test.exe
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\Git Test.deps.json
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\Git Test.runtimeconfig.json
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\Git Test.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\Git Test.dll
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\ref\Git Test.dll
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\bin\Debug\net5.0\Git Test.pdb
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.dll
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\ref\Git Test.dll
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.pdb
+C:\Users\Hp\Desktop\Desk\Proyectos\Git Test\obj\Debug\net5.0\Git Test.genruntimeconfig.cache
